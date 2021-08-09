@@ -5,7 +5,7 @@ check the live version [here](https://cv-generator-react.netlify.app/)
 ## Getting started
 
 ```
-git clone https://github.com/michalosman/cv-application.git
+git clone https://github.com/vishakha1801/resume-generator.git
 cd cv-application
 npm install
 npm start

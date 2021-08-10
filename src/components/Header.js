@@ -12,11 +12,16 @@ const Header = () => {
 }
 
 const HeaderContainer = styled.div`
-  background-color: ${({ theme }) => theme.colors.dark};
+  background-color: ${({ theme }) => theme.colors.blue};
 `
 
 const HeaderWrapper = styled.div`
   font-family: 'Zen Tokyo Zoo', cursive;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
   display: flex;
   align-items: center;
   max-width: 1800px;

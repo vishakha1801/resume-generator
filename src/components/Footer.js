@@ -22,7 +22,7 @@ const FooterWrapper = styled.footer`
   justify-content: center;
   width: 100%;
   padding: 0.5rem;
-  background-color: ${({ theme }) => theme.colors.dark};
+  background-color: ${({ theme }) => theme.colors.blue};
   color: ${({ theme }) => theme.colors.light};
 `;
 

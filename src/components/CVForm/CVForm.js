@@ -51,7 +51,10 @@ const CVFormWrapper = styled.div`
   border-radius: 5px;
   background-color: ${({ theme }) => theme.colors.light};
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+<<<<<<< HEAD
   
+=======
+>>>>>>> e6f23ad38eea6ac465f4982b70b66f1f8a1d1cb0
 `;
 
 export default CVForm;

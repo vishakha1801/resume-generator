@@ -1,5 +1,6 @@
 export const Theme = {
   colors: {
+<<<<<<< HEAD
     background: "#e9eef6",
     light: "#e9eef6",
     lightHover: "#ccddef",
@@ -19,6 +20,27 @@ export const Theme = {
     red: "#ff6961",
     redHover: "#ff5148",
     redActive: "#ff392e",
+=======
+    background: "#ccc",
+    light: "#eee",
+    lightHover: "#ccc",
+    lightActive: "#aaa",
+    lightSecondary: "#ddd",
+    lightBorder: "#ccc",
+    dark: "#333",
+    darkHover: "#222",
+    darkActive: "#111",
+    blue: "#143E72",
+    primary: "#1ba148",
+    primaryHover: "#0a9037",
+    primaryActive: "#098026",
+    secondary: "#c25c0e",
+    secondaryHover: "#b14b0d",
+    secondaryActive: "#a03a0c",
+    red: "#b3211e",
+    redHover: "#a2100d",
+    redActive: "#91000c",
+>>>>>>> e6f23ad38eea6ac465f4982b70b66f1f8a1d1cb0
   },
 };
 

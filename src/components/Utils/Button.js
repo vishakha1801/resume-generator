@@ -19,7 +19,11 @@ const ButtonWrapper = styled.button`
   border-radius: 5px;
   font-weight: bold;
 
+<<<<<<< HEAD
   background-color: ${({ theme }) => theme.colors.blue};
+=======
+  background-color: ${({ theme }) => theme.colors.dark};
+>>>>>>> e6f23ad38eea6ac465f4982b70b66f1f8a1d1cb0
   color: ${({ theme }) => theme.colors.light};
 
   &:hover {

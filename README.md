@@ -1,6 +1,6 @@
 # resume-generator
 
-check the live version [here](https://cv-generator-react.netlify.app/)
+check the live version [here](https://cv-generator-react.netlify.app)
 
 ## Getting started
 
